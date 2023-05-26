@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Gotham-Black', Helvetica, sans-serif;
 }
 
 .container {
@@ -15,7 +15,7 @@ body {
 
 .card{
     width: calc((100% / 6) - 20px);
-    margin: 0 10px;
+    margin: 10px;
 }
 
 .my-button{
@@ -27,3 +27,25 @@ body {
     border-radius: 50px;
     border: 1px solid white;
 }
+
+h4,
+h2 {
+    color: white;
+    margin: 10px 0; 
+}
+
+h4,
+h5{
+    text-align: center;
+}
+
+span,
+h5{
+    color: #74767b;
+    
+}
+
+@font-face {
+	font-family: 'Gotham-Black';
+	src: local('Gotham-Black'), url('Gotham-Black.otf') format('truetype');
+	}

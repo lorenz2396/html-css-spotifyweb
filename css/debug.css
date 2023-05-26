@@ -9,17 +9,13 @@
     border: 3px dashed greenyellow;
 }
 
-.debug .cards {
+/* .debug .cards {
     border: 2px dashed blue;
-}
+} */
 
-.debug .cards > .card {
+/* .debug .cards > .card {
     border: 2px dashed crimson;
-}
-
-.debug #main-content {
-    background-color: lightcoral;
-}
+} */
 
 .debug #main-conte > aside {
     background-color: aqua;
