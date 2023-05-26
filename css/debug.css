@@ -1,0 +1,35 @@
+.debug #main-content, 
+.debug #main-contentn> main,
+.debug footer {
+    border: 2px dashed red;
+}
+
+.debug #main-content > aside{
+    background-color: #000000;
+    border: 3px dashed greenyellow;
+}
+
+.debug .cards {
+    border: 2px dashed blue;
+}
+
+.debug .cards > .card {
+    border: 2px dashed crimson;
+}
+
+.debug #main-content {
+    background-color: lightcoral;
+}
+
+.debug #main-conte > aside {
+    background-color: aqua;
+}
+
+.debug footer{
+    background-color: aquamarine;
+}
+
+.debug footer > *{
+    background-color: orange;
+    border: 2px dashed black;
+}
